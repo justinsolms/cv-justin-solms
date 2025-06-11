@@ -1,5 +1,3 @@
-# Justin Solms
-
 📍 Swellendam, South Africa
 📧 justin@indexsolutions.co.za
 📞 +27 83 441 8883
