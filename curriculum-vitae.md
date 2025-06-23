@@ -8,10 +8,11 @@ Swellendam                                Tel  +27 83 441 8883
 South Africa
 -------------------------       ------------------------------
 
-Highly creative and experienced leader in all aspects of software requirements specification, development, test and validation, as well as configuration, I am also passionate about system engineering difficult problems into elegant solutions through the wealth of applied algorithms the world has such easy access to, as well as breaking new ground with novel, application centric algorithms of my own.
+Founder and portfolio manager for a successful startup, Index Solutions, delivering excellent investment returns to over 4500 investors. Creator of the company's investment methodologies and it's in-house quantitative investment software systems and portfolio management solutions, whilst embracing CI/CD workflows. Index Solutions has consistently beaten its domestic and global ASISA benchmarks.
 
-I am also a successful investment manager. I founded a company, Index Solutions, to apply my algorithms and software systems engineering to quantitative investment finance. Index Solutions currently beat the top investment managers in almost every ASISA sector.
+Justin has served as a director on several boards, most notably GIMCL inn Guernsey.
 
+Justin also has a deep background in engineering, most notably radar navigation systems, signal processing, machine leaning and embedded systems software.
 
 Education
 ---------
@@ -50,18 +51,6 @@ Education
 Experience
 ----------
 
-Nov 2018 - 2019
-:   **Consulting Software Engineer; BLNS Ltd (Mauritius)**
-
-    Consultation for specification writing and architecture for multi, crypto currency, hardware wallet Java card (an IOT device) and companion phone app.
-
-    * Business and system architecture requirements specification consultation.
-    * Systems architecture consultation.
-    * Introduction of the Java card IOT ecosystem to BLNS Ltd.
-    * Negotiation with major Java card suppliers in Europe for card production and programming through to personalization of crypto secrets and delivery to retail client.
-    * Configuration of Google Cloud Platform block-chain nodes for Bitcoin, Ethereum, Litecoin, USDT (USD linked coin), and Bitcoin-Lightning layer
-    * Production software suite development and testing and validation.
-
 Oct 2013 - Present
 :   **Senior systems engineer and founder, Chief Investment Officer, CEO; Index Solutions (Cape Town)**
 
@@ -74,18 +63,30 @@ Oct 2013 - Present
 
     I am the CEO and my funds have outperformed almost every major South African fund manager in difficult markets, not through large teams of analysts but through carefully engineered algorithms. I guided this company from a start-up to a partnership company with a board boasting a renowned chairman, Dr Iraj Abedian, and over 3700 clients that provides critical financial investment services.
 
-    * Software systems architect and liaison with sister company's development teams (Automated Outsourcing Services - Johannesburg, Nabla - Mauritius).
-    * Business architecture and software requirements specification for quantitative asset allocation algorithms software system in satisfaction of the clients fund mandate requirements.
-    * Business architecture and software requirements specification for fund management software system.
-    * Financial database requirements specification for funds data support.
-    * Interface requirements specification, testing, validation and live deployment in conjunction with client systems.
-    * Application of machine learning and statistical algorithms.
-    * Quantitative investment product design.
-    * Software systems prototyping, development, integration, testing, validation and live deployment (Matlab, Python, SQL with ORM).
-    * Fund performance simulation and back-testing of investment algorithms for validation.
-    * Obtained the company investment license on my name form the national regulator of financial services.
-    * Acquired investment partners who established the board of directors; I served on that board as the chief investment officer.
-    * Training of young fund managers and team members in quantitative investment principles, fund management and administration.
+    - Software systems architect and liaison with sister company's development teams (Automated Outsourcing Services - Johannesburg, Nabla - Mauritius).
+    - Business architecture and software requirements specification for quantitative asset allocation algorithms software system in satisfaction of the clients fund mandate requirements.
+    - Business architecture and software requirements specification for fund management software system.
+    - Financial database requirements specification for funds data support.
+    - Interface requirements specification, testing, validation and live deployment in conjunction with client systems.
+    - Application of machine learning and statistical algorithms.
+    - Quantitative investment product design.
+    - Software systems prototyping, development, integration, testing, validation and live deployment (Matlab, Python, SQL with ORM).
+    - Fund performance simulation and back-testing of investment algorithms for validation.
+    - Obtained the company investment license on my name form the national regulator of financial services.
+    - Acquired investment partners who established the board of directors; I served on that board as the chief investment officer.
+    - Training of young fund managers and team members in quantitative investment principles, fund management and administration.
+
+Nov 2018 - 2019
+:   **Consulting Software Engineer; BLNS Ltd (Mauritius)**
+
+    Consultation for specification writing and architecture for multi, crypto currency, hardware wallet Java card (an IOT device) and companion phone app.
+
+    - Business and system architecture requirements specification consultation.
+    - Systems architecture consultation.
+    - Introduction of the Java card IOT ecosystem to BLNS Ltd.
+    - Negotiation with major Java card suppliers in Europe for card production and programming through to personalization of crypto secrets and delivery to retail client.
+    - Configuration of Google Cloud Platform block-chain nodes for Bitcoin, Ethereum, Litecoin, USDT (USD linked coin), and Bitcoin-Lightning layer
+    - Production software suite development and testing and validation.
 
 Oct 2013 - Oct 2018
 :   **CEO; Index Solutions (Johannesburg)**
@@ -112,34 +113,34 @@ Jul 2007 - Sept 2013
 
     Quantitative software systems engineer and licensed key individual fund manager for a green and renewable energy hedge fund and several algorithmic quantitative asset allocation funds. Market maker for the listed carbon note.
 
-    * Software systems development team leader.
-    * Business architecture and software requirements specification for quantitative asset allocation algorithms software system in satisfaction of the clients fund mandate requirements.
-    * Business architecture and software requirements specification for fund management software system.
-    * Financial database requirements specification for funds data support.
-    * Interface requirements specification, testing, validation and live deployment in conjunction with client systems.
-    * Quantitative investment product design.
-    * Software systems prototyping, development, integration, testing, validation and live deployment (Matlab, SQL).
-    * Fund performance simulation and back-testing of investment algorithms.
-    * Licensed key individual in charge of managing investment funds.
-    * Sorghum to bio-ethanol engineering plant process and financial output modelling for investment due diligence.
-    * Plastic to synthetic oil engineering plant process and financial output modelling for investment due diligence.
-    * Market maker for the company’s Johannesburg Stock Exchange listed carbon credit note.
-    * Liaison with legal on security structuring and listing.
-    * Attending to sales call for the carbon note.
+    - Software systems development team leader.
+    - Business architecture and software requirements specification for quantitative asset allocation algorithms software system in satisfaction of the clients fund mandate requirements.
+    - Business architecture and software requirements specification for fund management software system.
+    - Financial database requirements specification for funds data support.
+    - Interface requirements specification, testing, validation and live deployment in conjunction with client systems.
+    - Quantitative investment product design.
+    - Software systems prototyping, development, integration, testing, validation and live deployment (Matlab, SQL).
+    - Fund performance simulation and back-testing of investment algorithms.
+    - Licensed key individual in charge of managing investment funds.
+    - Sorghum to bio-ethanol engineering plant process and financial output modelling for investment due diligence.
+    - Plastic to synthetic oil engineering plant process and financial output modelling for investment due diligence.
+    - Market maker for the company’s Johannesburg Stock Exchange listed carbon credit note.
+    - Liaison with legal on security structuring and listing.
+    - Attending to sales call for the carbon note.
 
 May 2005 - Feb 2007
 :   **Team Leader for Software Systems; Fidentia (Cape Town)**
 
     Project managed, trained and lead a team for the production of software systems for quantitative tactical asset allocation financial modelling and investment management.
 
-    * Software systems development team leader.
-    * Business architecture and software requirements specification for quantitative asset allocation algorithms software system in satisfaction of the clients fund mandate requirements  (MIL-STD-498).
-    * Business architecture and software requirements specification for fund management software system.
-    * Financial database requirements specification for funds data support.
-    * Interface requirements specification, testing, validation and live deployment in conjunction with client systems.
-    * Quantitative investment product design.
-    * Software systems prototyping, development, integration, testing, validation and live deployment (Matlab, SQL).
-    * Fund performance simulation and back-testing of investment algorithms.
+    - Software systems development team leader.
+    - Business architecture and software requirements specification for quantitative asset allocation algorithms software system in satisfaction of the clients fund mandate requirements  (MIL-STD-498).
+    - Business architecture and software requirements specification for fund management software system.
+    - Financial database requirements specification for funds data support.
+    - Interface requirements specification, testing, validation and live deployment in conjunction with client systems.
+    - Quantitative investment product design.
+    - Software systems prototyping, development, integration, testing, validation and live deployment (Matlab, SQL).
+    - Fund performance simulation and back-testing of investment algorithms.
 
 Apr 2004 - Apr 2005
 :   **Consultant; Private equity client**
@@ -153,14 +154,14 @@ Oct 1999 - Mar 2004
 
     I was responsible for software requirements specification, development, testing and validation, and configuration.
 
-    * Software systems development team leader.
-    * Adaptive time-series forecasting models using advanced system identification of model parameters then using economic leading indicators and stock index pricing to predict stock prices and detect market breaks and drive the asset allocation algorithms.
-    * Business architecture and software requirements specification for quantitative asset allocation algorithms software system in satisfaction of the clients fund mandate requirements (MIL-STD-498).
-    * Business architecture and software requirements specification for fund management software system.
-    * Financial database requirements specification for funds data support.
-    * Quantitative investment product design.
-    * Software systems prototyping, development, integration, testing, validation and live deployment (Matlab, SQL).
-    * Fund performance simulation and back-testing of investment algorithms.
+    - Software systems development team leader.
+    - Adaptive time-series forecasting models using advanced system identification of model parameters then using economic leading indicators and stock index pricing to predict stock prices and detect market breaks and drive the asset allocation algorithms.
+    - Business architecture and software requirements specification for quantitative asset allocation algorithms software system in satisfaction of the clients fund mandate requirements (MIL-STD-498).
+    - Business architecture and software requirements specification for fund management software system.
+    - Financial database requirements specification for funds data support.
+    - Quantitative investment product design.
+    - Software systems prototyping, development, integration, testing, validation and live deployment (Matlab, SQL).
+    - Fund performance simulation and back-testing of investment algorithms.
 
 Mar 1999 - Sept 1999
 :   **Contract embedded software engineer; Sunesi Clinical Systems**
@@ -179,18 +180,18 @@ Sep 1993 - Apr 1998
 
     A notable achievement for me was to prove that the processing bandwidth requirement for the missile guidance system was orders of magnitude lower than the system engineer had estimated. This was due to my knowledge of inertial systems and AI. This significantly lowered the estimated cost of the guidance system computer.
 
-    * Artificial intelligence terrain feature extraction, recognition and matching algorithms design and development.
-    * Image processing design and development.
-    * Radar digital signal processing design and development for a swept frequency modulated millimetre-wave terrain mapping radar.
-    * Terrain feature embedded database design and development.
-    * Adaptive digital stabilization and control of radar and gimbals mountings.
-    * Parallel processor embedded systems programming. Debugging of hardware.
-    * Flight test console software design and development.
-    * Flight trials.
-    * GPS hardware and software reverse engineering to allow for high altitude, high acceleration operations.
-    * Feasibility study into spread-spectrum millimetre-wave networks for covert battle field telecommunications.
-    * Modelled rocket aerodynamic coefficients using telemetry data of live rocket firing test and validation data.
-    * Developed adaptive control of acoustic fields for active acoustic noise suppression in military fighting vehicles.
+    - Artificial intelligence terrain feature extraction, recognition and matching algorithms design and development.
+    - Image processing design and development.
+    - Radar digital signal processing design and development for a swept frequency modulated millimetre-wave terrain mapping radar.
+    - Terrain feature embedded database design and development.
+    - Adaptive digital stabilization and control of radar and gimbals mountings.
+    - Parallel processor embedded systems programming. Debugging of hardware.
+    - Flight test console software design and development.
+    - Flight trials.
+    - GPS hardware and software reverse engineering to allow for high altitude, high acceleration operations.
+    - Feasibility study into spread-spectrum millimetre-wave networks for covert battle field telecommunications.
+    - Modelled rocket aerodynamic coefficients using telemetry data of live rocket firing test and validation data.
+    - Developed adaptive control of acoustic fields for active acoustic noise suppression in military fighting vehicles.
 
 Sep 1992 - Aug 1993
 :   **Project Manager, Simulations and Algorithms Engineer; Advanced Technologies and Engineering (ex-Dassault engineers in Midrand, Johannesburg)**
@@ -199,24 +200,24 @@ Sep 1992 - Aug 1993
 
     I was also project manager for the "Rooivalk" combat helicopter flight control system and its flight trials. I also wrote the logistics specification for the South African, Pilatus-built, pilot trainer aircraft's avionics suite. I also developed a detailed and faithful simulation of a boosted guided bomb add on guidance package for over-the-hill precision attacks.
 
-    * Guidance, control and targeting algorithms design and test.
-    * Simulation of airframes off wind tunnel data for algorithms testing.
-    * Kalman filters for guidance and navigation.
-    * Specification and proposal writing.
-    * Project management.
+    - Guidance, control and targeting algorithms design and test.
+    - Simulation of airframes off wind tunnel data for algorithms testing.
+    - Kalman filters for guidance and navigation.
+    - Specification and proposal writing.
+    - Project management.
 
 Jan 1990 - Aug 1992
 :   **Inertial Navigation Specialist; Denel Defence & Aerospace at Kentron's Precision Products Group (Irene, Pretoria)**
 
     Development, integrating and validation of precision inertial navigation algorithms for airborne weapons platforms. Kalman filter sensor suite information integration. Detailed software system requirement specifications writing compliant with MIL-STD-498. Attained the rank of 2nd Lieutenant in compulsory military training.
 
-    * Top-secret security clearance.
-    * Invented a much faster inertial alignment algorithm reducing initialisation and alignment from 12 to 3 minutes on the flight apron.
-    * Integration of full sensor suite information using a Kalman filter and modular sensor dynamic models for full, in-flight, sensor bias, noise and drift calibration.
-    * Developed complete aircraft simulation package and integrated with a team member's GPS simulation package and another IMU simulation package for a development and validation environment for embedded navigation algorithms. These models faithfully reproduced artefacts of apron turbulence, flight, sensor bias and drift and degraded GPS operation and so on. These factors adversely affect alignment and calibration. The validated code could then be directly ported to the live flight trial system for further flight validation.
-    * Awarded a prize for a rapid solution to an urgently problematic gun laying algorithm for the South African G6, mobile, long-range artillery piece.
-    * Advisor for algorithm development best practices.
-    * Achieved the rank of 2nd Lieutenant in the South Africa Air-force as compulsory military training after full basic military training.
+    - Top-secret security clearance.
+    - Invented a much faster inertial alignment algorithm reducing initialisation and alignment from 12 to 3 minutes on the flight apron.
+    - Integration of full sensor suite information using a Kalman filter and modular sensor dynamic models for full, in-flight, sensor bias, noise and drift calibration.
+    - Developed complete aircraft simulation package and integrated with a team member's GPS simulation package and another IMU simulation package for a development and validation environment for embedded navigation algorithms. These models faithfully reproduced artefacts of apron turbulence, flight, sensor bias and drift and degraded GPS operation and so on. These factors adversely affect alignment and calibration. The validated code could then be directly ported to the live flight trial system for further flight validation.
+    - Awarded a prize for a rapid solution to an urgently problematic gun laying algorithm for the South African G6, mobile, long-range artillery piece.
+    - Advisor for algorithm development best practices.
+    - Achieved the rank of 2nd Lieutenant in the South Africa Air-force as compulsory military training after full basic military training.
 
 Technical Experience
 --------------------
