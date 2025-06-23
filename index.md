@@ -1,91 +1,88 @@
+Justin Solms
+============
+
 📍 Swellendam, South Africa
-📧 justin@indexsolutions.co.za
-📞 +27 83 441 8883
-🌐 [LinkedIn or GitHub link if available]
+📧 justin@indexsolutions.co.za | 📞 +27 83 441 8883
+🌐 [indexsolutions.co.za](https://www.indexsolutions.co.za) | 🛠️ Remote-ready | 🧠 Quantitative Engineer & CTO-level Developer
 
 ---
 
-## Summary
+## Professional Summary
 
-Experienced Python developer and systems engineer with a background spanning aerospace, quantitative finance, and AI-driven automation. Founder and CIO of a successful investment firm with deep expertise in designing and deploying mission-critical systems using Python, SQLAlchemy, and the scientific stack. Proven track record in working remotely, independently delivering robust, scalable solutions.
+Senior software engineer, system architect, and founder with 30+ years of experience delivering high-performance technical solutions across fintech, aerospace, and embedded systems. Founder of a successful quantitative investment management firm, where I architected and developed all mission-critical software infrastructure in Python, including asset allocation engines, trading systems, analytics pipelines, and CI/CD infrastructure. Deep experience in ML, signal processing, time-series modeling, and regulatory-compliant system design.
 
----
-
-## Skills
-
-**Languages:** Python (SciPy, NumPy, Pandas, SQLAlchemy, scikit-learn), SQL, Matlab, C, Node.js, Bash
-**Frameworks:** FastAPI, Flask, Keras, TensorFlow
-**Tools:** Git, Linux (Ubuntu), Docker, Jupyter, PostgreSQL, REST APIs
-**Methods:** Machine Learning, Time Series Modeling, Algorithmic Design, Data Wrangling
-**Remote Dev Practices:** Version control, test coverage, documentation, CI/CD familiarity
+I combine hands-on coding ability with strategic thinking, having grown a startup from zero to thousands of clients, achieving industry-leading returns — not by hiring large teams, but by engineering better systems.
 
 ---
 
-## Experience
+## Tech Stack Summary
 
-### Sunstrike Capital (Index Solutions) — *Founder & Systems Architect*
-**Cape Town | Remote | Oct 2013 – Present**
-
-- Built end-to-end Python systems for quantitative asset management with >3,700 clients.
-- Replaced legacy Matlab codebase with Python stack, including SQLAlchemy ORM and scientific computing.
-- Designed automated portfolio rebalancing and risk control algorithms.
-- Integrated REST APIs for financial data ingestion and trade execution.
-- Mentored junior quant developers and managed distributed dev efforts.
-
-**Tech:** Python, SQLAlchemy, Pandas, Linux, REST, Git, PyTest, SSH
+**Languages & Tools:** Python, NumPy, Pandas, SciPy, scikit-learn, SQL, Git, Bash, Docker, Node.js, MATLAB
+**Frameworks & Libraries:** SQLAlchemy ORM, Jupyter, RESTful APIs, TensorFlow/Keras (project-based), pytest, logging
+**Environments:** Linux (dev & production), remote terminals, SSH, cloud-hosted infrastructure (GCP), API-based data pipelines
 
 ---
 
-### BLNS Ltd — *Consulting Software Engineer*
-**Remote | 2018 – 2019**
+## Remote Work Capabilities
 
-- Defined system architecture and software stack for a hardware wallet supporting multiple cryptocurrencies.
-- Deployed blockchain nodes on GCP and built client-server interface using JavaCard and mobile stack.
-
-**Tech:** GCP, Python, REST, Linux, JavaCard
+- Proven ability to work independently with full ownership of software architecture and delivery.
+- Effective asynchronous communicator; experienced in cross-border collaboration (Mauritius, Johannesburg).
+- Robust remote dev practices: version control, containerization, automated deployment, exception reporting.
 
 ---
 
-### Sterling Waterford Securities — *Quantitative Engineer*
-**Cape Town | 2007 – 2013**
+## Selected Projects & Systems
 
-- Led dev of backtesting systems for algorithmic strategies on renewables-focused hedge fund.
-- Modeled process dynamics for investment due diligence (e.g. ethanol, plastic recycling plants).
+### 🧠 Quantitative Investment Engine
+- Developed proprietary portfolio optimization algorithms using classical quant models and ML techniques.
+- Built in Python using NumPy, Pandas, SciPy, scikit-learn, and custom optimization code.
+- Integrated with live administrator APIs to manage portfolio mandates, compliance, and weekly rebalance instructions.
 
-**Tech:** Matlab, SQL, Quant modeling
+### 🔁 CI/CD Workflow for Financial Systems
+- Architected continuous integration and deployment pipeline for all mission-critical Python systems.
+- Used git-based workflows, test coverage enforcement, and logging infrastructure for exception tracking.
+
+### 📈 Risk & Performance Analytics Dashboard
+- Built internal dashboard for real-time portfolio monitoring, benchmark tracking, and performance attribution.
+- Backend in Python with ORM-based access to time-series data; frontend JSON-API-ready.
+- Automated generation of client reports and board-level summaries.
+
+### 🔗 API Integrations with Platform Providers
+- Developed robust interface clients to consume and verify upstream data from administrator systems (AOS).
+- Detected schema changes and API disruptions in real time using diff models and exception snapshots.
+- Designed abstractions for handling unpredictable data inputs with full audit logging.
+
+---
+
+## Career Highlights
+
+### Index Solutions — Founder, System Architect, Lead Developer (2013–present)
+Built and scaled a licensed discretionary asset management company managing thousands of portfolios. Led all software architecture and development, regulatory integration, and investment performance logic.
+
+### BLNS Ltd, Mauritius — Consulting Software Engineer (2018–2019)
+Consulted on crypto hardware wallet system design. Led architecture and supplier negotiations. Introduced JavaCard tech stack and GCP-hosted blockchain infrastructure.
+
+### Sterling Waterford Securities — Quant Developer & Fund Manager (2007–2013)
+Developed quant models and full-stack systems for renewable energy and carbon trading hedge funds. Key developer and market maker on listed carbon credit notes.
+
+### Private Wealth Management Firm — Team Lead, Quant Software Systems (2005–2007)
+Led software team building tactical asset allocation systems in MATLAB and SQL. Focus on high-integrity financial modeling and mandate compliance.
+
+### PeregrineQuant — Founding Engineer (1999–2004)
+Founding technical contributor to SA’s first quant investment firm. Built time-series forecasting models for asset allocation; drove quant product development and deployment.
+
+### Aerospace & Defence (1990–1999) — Inertial Navigation & Embedded Systems
+Built and deployed high-integrity guidance systems for missiles, aircraft, and radar platforms. Focused on real-time AI algorithms, Kalman filtering, and simulation-driven validation.
 
 ---
 
 ## Education
 
-**M.Eng. Electronic Engineering**, University of Stellenbosch — *1990*
-Thesis: Kalman Filtering for missile guidance using parallel processors
+**M.Eng. Electronics** — University of Stellenbosch
+*Thesis: Dual Kalman filters for missile target tracking & guidance*
+*Specializations: Control systems, signal processing, parallel computing*
 
-**Deep Learning Nanodegree**, Udacity — *2018*
-Projects included CNNs, RNNs, GANs, and quadcopter control via reinforcement learning
-
-**AI Nanodegree**, Udacity — *2018*
-Focused on CSPs, planning, search, and probabilistic inference
+**Deep Learning & AI Nanodegrees** — Udacity (2018)
+Projects included CNNs from scratch, LSTM models, RL quadcopter control, symbolic AI, and adversarial networks.
 
 ---
-
-## Projects
-
-- **Portfolio Optimizer:** Python tool balancing utility and diversification via convex optimization.
-- **ETF Analytics Dashboard:** Jupyter-based system for tracking and analyzing sector ETF performance.
-- **Financial API Monitoring Tool:** Custom diagnostics for JSON API responses, automated alerts on schema breaks.
-
----
-
-## Other
-
-- Published in IEEE (FMICW airborne radar guidance system)
-- Enjoys mountain biking, dancing, physics, and hiking
-- Dual background in engineering and investment management
-- Comfortable with async, remote-first workflows
-
----
-
-## References
-
-Available on request
